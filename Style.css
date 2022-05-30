@@ -1,0 +1,56 @@
+* {
+
+  dimensionamento de caixa: caixa de borda;
+
+  margem: 0;
+
+  preenchimento: 0;
+
+}
+
+corpo {
+
+  min-altura: 100vh;
+
+  largura: 100%;
+
+}
+
+.container {
+
+  imagem de fundo: gradiente radial(círculo, #0077ff 0%, #00ffaa 100%);
+
+  exibição: flexível;
+
+  justificar-conteúdo: centro;
+
+  alinhar-itens: centro;
+
+  altura: 100vh;
+
+}
+
+.relógio {
+
+  alinhar-itens: centro;
+
+  cor de fundo: rgba(255, 255, 255, 0,5);
+
+  borda: 1px sólido #000;
+
+  raio de borda: 3%;
+
+  cor: #ff;
+
+  exibição: flexível;
+
+  tamanho da fonte: 60px;
+
+  justificar-conteúdo: centro;
+
+  altura: 100px;
+
+  largura: 250px;
+
+}
+
